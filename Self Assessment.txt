@@ -1,0 +1,24 @@
+## Self Assessment
+
+During this project, I focused my efforts on roles that supported organization, coordination, planning, and compilation.  Including, but not limited to:
+
+1. Creating and managing the GitHub repository
+2. Creating and editing the final presentation PowerPoint
+3. Organizing team meetings and setting deadlines for updates from team members
+4. Leading rubric examinations in order to make sure we achieved maximum points per section
+5. Data visualization in Python and Tableau
+6. Helping team members understand specifics of baseball data and statistics
+
+I did not do much coding during this final project, mostly because I knew that other members of my team would be able to have a larger impact doing these more technical roles.  In some situations, other members also were very passionate about taking on specific technical tasks.  However, the leadership and feedback I was able to provide, along with steering direction of conversation, allowed the other team members to focus on their specific tasks and deliver incredible results.
+
+My greatest personal challenge dealt with my lack of proficiency and interest in machine learning.  After having my son in December (adding to the already great challenge of a 2 year old), and starting a brand new job on March 1st, it was even tougher to stay focused and engaged.  Luckily, I was able to pour my energy into the operational tasks such as GitHub management and creating the final presentation.  I have significant presentation skills that I've built over my career, which was not something that my other teammates had in their toolbelt.  Lending my expertise, and motivational skills, we were able to deliver a great final product!
+
+## Team Assessment
+
+The team communicated through Slack and Zoom, and leveraged the class sessions to do project work.  Since we were already blocking out those 2 hours on Tuesday & Thursday, it only made sense.  We did leave the option for ad-hoc meetings, but rarely used them.  There were no significant challenges in communication, but role clarity during segments 1 and 2 did lend to some challenges in sharing work back and forth.  We overcame that confusion by working with our instructors to get explicit direction on what we needed to do and when.  
+
+Our strength lay in playing to our specialties.  Rather than forcing ourselves to rotate into roles that may not have been something we were passionate about, or confident in our ability to deliver, we worked together each week to decide who would tackle what project.  We were also not afraid to pivot, or offer feedback to one another, if someone was off-base.  
+
+## Summary of Project
+
+'Beyond the Batters Box: Analyzing the Winners and Losers of America's Pastime' peels back the layers of nearly 150 years of baseball data.  We explore the evolution of salary in baseball's modern era, what drives the big contracts, and where teams should invest their money.  Using a RandomForest machine learning model, we were able to determine if a player should command a 'premium' salary with 99% accuracy.  Any business can adapt this model as long as they have a data set that can offer as many distinct features.  
